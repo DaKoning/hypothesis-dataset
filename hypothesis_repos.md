@@ -1,5 +1,4 @@
 # Hypothesis-Powered Repositories
-# Hypothesis-Powered Repositories
 
 | Repository | ⭐ Stars | 🧪 Property-Based Tests |
 |------------|----------|--------------------------|
