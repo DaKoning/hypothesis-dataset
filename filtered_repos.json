@@ -1,0 +1,2188 @@
+{
+  "repos": [
+    {
+      "name": "pytorch/pytorch",
+      "stars": 89578,
+      "img": "https://avatars.githubusercontent.com/u/21003710?s=40&v=4",
+      "owner": "pytorch",
+      "repo_name": "pytorch",
+      "property_test_count": 139
+    },
+    {
+      "name": "python/cpython",
+      "stars": 66662,
+      "img": "https://avatars.githubusercontent.com/u/1525981?s=40&v=4",
+      "owner": "python",
+      "repo_name": "cpython",
+      "property_test_count": 21
+    },
+    {
+      "name": "pandas-dev/pandas",
+      "stars": 45288,
+      "img": "https://avatars.githubusercontent.com/u/21206976?s=40&v=4",
+      "owner": "pandas-dev",
+      "repo_name": "pandas",
+      "property_test_count": 15
+    },
+    {
+      "name": "streamlit/streamlit",
+      "stars": 39121,
+      "img": "https://avatars.githubusercontent.com/u/45109972?s=40&v=4",
+      "owner": "streamlit",
+      "repo_name": "streamlit",
+      "property_test_count": 6
+    },
+    {
+      "name": "gradio-app/gradio",
+      "stars": 37778,
+      "img": "https://avatars.githubusercontent.com/u/51063788?s=40&v=4",
+      "owner": "gradio-app",
+      "repo_name": "gradio",
+      "property_test_count": 2
+    },
+    {
+      "name": "pola-rs/polars",
+      "stars": 33368,
+      "img": "https://avatars.githubusercontent.com/u/83768144?s=40&v=4",
+      "owner": "pola-rs",
+      "repo_name": "polars",
+      "property_test_count": 146
+    },
+    {
+      "name": "jax-ml/jax",
+      "stars": 32089,
+      "img": "https://avatars.githubusercontent.com/u/58486408?s=40&v=4",
+      "owner": "jax-ml",
+      "repo_name": "jax",
+      "property_test_count": 24
+    },
+    {
+      "name": "explosion/spaCy",
+      "stars": 31491,
+      "img": "https://avatars.githubusercontent.com/u/20011530?s=40&v=4",
+      "owner": "explosion",
+      "repo_name": "spaCy",
+      "property_test_count": 4
+    },
+    {
+      "name": "servo/servo",
+      "stars": 30280,
+      "img": "https://avatars.githubusercontent.com/u/2566135?s=40&v=4",
+      "owner": "servo",
+      "repo_name": "servo",
+      "property_test_count": 100
+    },
+    {
+      "name": "numpy/numpy",
+      "stars": 29386,
+      "img": "https://avatars.githubusercontent.com/u/288276?s=40&v=4",
+      "owner": "numpy",
+      "repo_name": "numpy",
+      "property_test_count": 14
+    },
+    {
+      "name": "google/python-fire",
+      "stars": 27607,
+      "img": "https://avatars.githubusercontent.com/u/1342004?s=40&v=4",
+      "owner": "google",
+      "repo_name": "python-fire",
+      "property_test_count": 2
+    },
+    {
+      "name": "PaddlePaddle/Paddle",
+      "stars": 22726,
+      "img": "https://avatars.githubusercontent.com/u/23534030?s=40&v=4",
+      "owner": "PaddlePaddle",
+      "repo_name": "Paddle",
+      "property_test_count": 11
+    },
+    {
+      "name": "chroma-core/chroma",
+      "stars": 19593,
+      "img": "https://avatars.githubusercontent.com/u/105881770?s=40&v=4",
+      "owner": "chroma-core",
+      "repo_name": "chroma",
+      "property_test_count": 20
+    },
+    {
+      "name": "apache/arrow",
+      "stars": 15312,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "arrow",
+      "property_test_count": 17
+    },
+    {
+      "name": "ivy-llc/ivy",
+      "stars": 14193,
+      "img": "https://avatars.githubusercontent.com/u/165023508?s=40&v=4",
+      "owner": "ivy-llc",
+      "repo_name": "ivy",
+      "property_test_count": 113
+    },
+    {
+      "name": "scipy/scipy",
+      "stars": 13608,
+      "img": "https://avatars.githubusercontent.com/u/288277?s=40&v=4",
+      "owner": "scipy",
+      "repo_name": "scipy",
+      "property_test_count": 9
+    },
+    {
+      "name": "sympy/sympy",
+      "stars": 13582,
+      "img": "https://avatars.githubusercontent.com/u/260832?s=40&v=4",
+      "owner": "sympy",
+      "repo_name": "sympy",
+      "property_test_count": 5
+    },
+    {
+      "name": "pyodide/pyodide",
+      "stars": 13118,
+      "img": "https://avatars.githubusercontent.com/u/77002075?s=40&v=4",
+      "owner": "pyodide",
+      "repo_name": "pyodide",
+      "property_test_count": 19
+    },
+    {
+      "name": "aws/chalice",
+      "stars": 10839,
+      "img": "https://avatars.githubusercontent.com/u/2232217?s=40&v=4",
+      "owner": "aws",
+      "repo_name": "chalice",
+      "property_test_count": 4
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "stars": 10741,
+      "img": "https://avatars.githubusercontent.com/u/18339788?s=40&v=4",
+      "owner": "dbt-labs",
+      "repo_name": "dbt-core",
+      "property_test_count": 3
+    },
+    {
+      "name": "cleanlab/cleanlab",
+      "stars": 10498,
+      "img": "https://avatars.githubusercontent.com/u/90712480?s=40&v=4",
+      "owner": "cleanlab",
+      "repo_name": "cleanlab",
+      "property_test_count": 15
+    },
+    {
+      "name": "qutebrowser/qutebrowser",
+      "stars": 10243,
+      "img": "https://avatars.githubusercontent.com/u/21955151?s=40&v=4",
+      "owner": "qutebrowser",
+      "repo_name": "qutebrowser",
+      "property_test_count": 56
+    },
+    {
+      "name": "wandb/wandb",
+      "stars": 9820,
+      "img": "https://avatars.githubusercontent.com/u/26401354?s=40&v=4",
+      "owner": "wandb",
+      "repo_name": "wandb",
+      "property_test_count": 57
+    },
+    {
+      "name": "esphome/esphome",
+      "stars": 9240,
+      "img": "https://avatars.githubusercontent.com/u/45919759?s=40&v=4",
+      "owner": "esphome",
+      "repo_name": "esphome",
+      "property_test_count": 10
+    },
+    {
+      "name": "squeaky-pl/japronto",
+      "stars": 8593,
+      "img": "https://avatars.githubusercontent.com/u/754356?s=40&v=4",
+      "owner": "squeaky-pl",
+      "repo_name": "japronto",
+      "property_test_count": 15
+    },
+    {
+      "name": "WebKit/WebKit",
+      "stars": 8572,
+      "img": "https://avatars.githubusercontent.com/u/6458?s=40&v=4",
+      "owner": "WebKit",
+      "repo_name": "WebKit",
+      "property_test_count": 100
+    },
+    {
+      "name": "apache/beam",
+      "stars": 8083,
+      "img": "https://avatars.githubusercontent.com/u/47359?s=40&v=4",
+      "owner": "apache",
+      "repo_name": "beam",
+      "property_test_count": 4
+    },
+    {
+      "name": "HypothesisWorks/hypothesis",
+      "stars": 7822,
+      "img": "https://avatars.githubusercontent.com/u/18481919?s=40&v=4",
+      "owner": "HypothesisWorks",
+      "repo_name": "hypothesis",
+      "property_test_count": 1203
+    },
+    {
+      "name": "robinhood/faust",
+      "stars": 6787,
+      "img": "https://avatars.githubusercontent.com/u/18473991?s=40&v=4",
+      "owner": "robinhood",
+      "repo_name": "faust",
+      "property_test_count": 6
+    },
+    {
+      "name": "MikeMcl/decimal.js",
+      "stars": 6752,
+      "img": "https://avatars.githubusercontent.com/u/921201?s=40&v=4",
+      "owner": "MikeMcl",
+      "repo_name": "decimal.js",
+      "property_test_count": 5
+    },
+    {
+      "name": "litestar-org/litestar",
+      "stars": 6527,
+      "img": "https://avatars.githubusercontent.com/u/97250344?s=40&v=4",
+      "owner": "litestar-org",
+      "repo_name": "litestar",
+      "property_test_count": 13
+    },
+    {
+      "name": "facebookresearch/pytext",
+      "stars": 6325,
+      "img": "https://avatars.githubusercontent.com/u/16943930?s=40&v=4",
+      "owner": "facebookresearch",
+      "repo_name": "pytext",
+      "property_test_count": 10
+    },
+    {
+      "name": "Qiskit/qiskit",
+      "stars": 5998,
+      "img": "https://avatars.githubusercontent.com/u/30696987?s=40&v=4",
+      "owner": "Qiskit",
+      "repo_name": "qiskit",
+      "property_test_count": 8
+    },
+    {
+      "name": "pixie-io/pixie",
+      "stars": 5992,
+      "img": "https://avatars.githubusercontent.com/u/82631609?s=40&v=4",
+      "owner": "pixie-io",
+      "repo_name": "pixie",
+      "property_test_count": 3
+    },
+    {
+      "name": "ibis-project/ibis",
+      "stars": 5716,
+      "img": "https://avatars.githubusercontent.com/u/27442526?s=40&v=4",
+      "owner": "ibis-project",
+      "repo_name": "ibis",
+      "property_test_count": 49
+    },
+    {
+      "name": "infobyte/faraday",
+      "stars": 5377,
+      "img": "https://avatars.githubusercontent.com/u/4226354?s=40&v=4",
+      "owner": "infobyte",
+      "repo_name": "faraday",
+      "property_test_count": 15
+    },
+    {
+      "name": "web-platform-tests/wpt",
+      "stars": 5314,
+      "img": "https://avatars.githubusercontent.com/u/37226233?s=40&v=4",
+      "owner": "web-platform-tests",
+      "repo_name": "wpt",
+      "property_test_count": 100
+    },
+    {
+      "name": "ethereum/web3.py",
+      "stars": 5237,
+      "img": "https://avatars.githubusercontent.com/u/6250754?s=40&v=4",
+      "owner": "ethereum",
+      "repo_name": "web3.py",
+      "property_test_count": 24
+    },
+    {
+      "name": "vyperlang/vyper",
+      "stars": 5020,
+      "img": "https://avatars.githubusercontent.com/u/57152025?s=40&v=4",
+      "owner": "vyperlang",
+      "repo_name": "vyper",
+      "property_test_count": 52
+    },
+    {
+      "name": "marqo-ai/marqo",
+      "stars": 4839,
+      "img": "https://avatars.githubusercontent.com/u/103185353?s=40&v=4",
+      "owner": "marqo-ai",
+      "repo_name": "marqo",
+      "property_test_count": 2
+    },
+    {
+      "name": "zenml-io/zenml",
+      "stars": 4559,
+      "img": "https://avatars.githubusercontent.com/u/88676955?s=40&v=4",
+      "owner": "zenml-io",
+      "repo_name": "zenml",
+      "property_test_count": 11
+    },
+    {
+      "name": "dry-python/returns",
+      "stars": 3903,
+      "img": "https://avatars.githubusercontent.com/u/37993755?s=40&v=4",
+      "owner": "dry-python",
+      "repo_name": "returns",
+      "property_test_count": 5
+    },
+    {
+      "name": "unionai-oss/pandera",
+      "stars": 3775,
+      "img": "https://avatars.githubusercontent.com/u/94206482?s=40&v=4",
+      "owner": "unionai-oss",
+      "repo_name": "pandera",
+      "property_test_count": 55
+    },
+    {
+      "name": "mozilla/gecko-dev",
+      "stars": 3618,
+      "img": "https://avatars.githubusercontent.com/u/131524?s=40&v=4",
+      "owner": "mozilla",
+      "repo_name": "gecko-dev",
+      "property_test_count": 128
+    },
+    {
+      "name": "nylas/sync-engine",
+      "stars": 3503,
+      "img": "https://avatars.githubusercontent.com/u/4219865?s=40&v=4",
+      "owner": "nylas",
+      "repo_name": "sync-engine",
+      "property_test_count": 6
+    },
+    {
+      "name": "ClusterHQ/flocker",
+      "stars": 3392,
+      "img": "https://avatars.githubusercontent.com/u/7913449?s=40&v=4",
+      "owner": "ClusterHQ",
+      "repo_name": "flocker",
+      "property_test_count": 113
+    },
+    {
+      "name": "vlcn-io/cr-sqlite",
+      "stars": 3269,
+      "img": "https://avatars.githubusercontent.com/u/114890635?s=40&v=4",
+      "owner": "vlcn-io",
+      "repo_name": "cr-sqlite",
+      "property_test_count": 4
+    },
+    {
+      "name": "seatgeek/thefuzz",
+      "stars": 3193,
+      "img": "https://avatars.githubusercontent.com/u/447527?s=40&v=4",
+      "owner": "seatgeek",
+      "repo_name": "thefuzz",
+      "property_test_count": 2
+    },
+    {
+      "name": "hypothesis/h",
+      "stars": 3027,
+      "img": "https://avatars.githubusercontent.com/u/1243215?s=40&v=4",
+      "owner": "hypothesis",
+      "repo_name": "h",
+      "property_test_count": 11
+    },
+    {
+      "name": "facebookresearch/habitat-sim",
+      "stars": 2922,
+      "img": "https://avatars.githubusercontent.com/u/16943930?s=40&v=4",
+      "owner": "facebookresearch",
+      "repo_name": "habitat-sim",
+      "property_test_count": 2
+    },
+    {
+      "name": "explosion/thinc",
+      "stars": 2845,
+      "img": "https://avatars.githubusercontent.com/u/20011530?s=40&v=4",
+      "owner": "explosion",
+      "repo_name": "thinc",
+      "property_test_count": 32
+    },
+    {
+      "name": "TeamHG-Memex/eli5",
+      "stars": 2769,
+      "img": "https://avatars.githubusercontent.com/u/9270052?s=40&v=4",
+      "owner": "TeamHG-Memex",
+      "repo_name": "eli5",
+      "property_test_count": 8
+    },
+    {
+      "name": "eth-brownie/brownie",
+      "stars": 2693,
+      "img": "https://avatars.githubusercontent.com/u/55654090?s=40&v=4",
+      "owner": "eth-brownie",
+      "repo_name": "brownie",
+      "property_test_count": 34
+    },
+    {
+      "name": "google-research/kubric",
+      "stars": 2485,
+      "img": "https://avatars.githubusercontent.com/u/43830688?s=40&v=4",
+      "owner": "google-research",
+      "repo_name": "kubric",
+      "property_test_count": 5
+    },
+    {
+      "name": "schemathesis/schemathesis",
+      "stars": 2474,
+      "img": "https://avatars.githubusercontent.com/u/70383271?s=40&v=4",
+      "owner": "schemathesis",
+      "repo_name": "schemathesis",
+      "property_test_count": 124
+    },
+    {
+      "name": "dateutil/dateutil",
+      "stars": 2451,
+      "img": "https://avatars.githubusercontent.com/u/9849410?s=40&v=4",
+      "owner": "dateutil",
+      "repo_name": "dateutil",
+      "property_test_count": 4
+    },
+    {
+      "name": "firebase/firebase-android-sdk",
+      "stars": 2368,
+      "img": "https://avatars.githubusercontent.com/u/1335026?s=40&v=4",
+      "owner": "firebase",
+      "repo_name": "firebase-android-sdk",
+      "property_test_count": 11
+    },
+    {
+      "name": "rasterio/rasterio",
+      "stars": 2351,
+      "img": "https://avatars.githubusercontent.com/u/46967650?s=40&v=4",
+      "owner": "rasterio",
+      "repo_name": "rasterio",
+      "property_test_count": 19
+    },
+    {
+      "name": "pikepdf/pikepdf",
+      "stars": 2330,
+      "img": "https://avatars.githubusercontent.com/u/31968294?s=40&v=4",
+      "owner": "pikepdf",
+      "repo_name": "pikepdf",
+      "property_test_count": 28
+    },
+    {
+      "name": "ethereum/py-evm",
+      "stars": 2323,
+      "img": "https://avatars.githubusercontent.com/u/6250754?s=40&v=4",
+      "owner": "ethereum",
+      "repo_name": "py-evm",
+      "property_test_count": 13
+    },
+    {
+      "name": "jmespath/jmespath.py",
+      "stars": 2298,
+      "img": "https://avatars.githubusercontent.com/u/6053930?s=40&v=4",
+      "owner": "jmespath",
+      "repo_name": "jmespath.py",
+      "property_test_count": 7
+    },
+    {
+      "name": "chardet/chardet",
+      "stars": 2247,
+      "img": "https://avatars.githubusercontent.com/u/6211498?s=40&v=4",
+      "owner": "chardet",
+      "repo_name": "chardet",
+      "property_test_count": 3
+    },
+    {
+      "name": "WZBSocialScienceCenter/pdftabextract",
+      "stars": 2239,
+      "img": "https://avatars.githubusercontent.com/u/20353876?s=40&v=4",
+      "owner": "WZBSocialScienceCenter",
+      "repo_name": "pdftabextract",
+      "property_test_count": 7
+    },
+    {
+      "name": "pytorch/torchrec",
+      "stars": 2110,
+      "img": "https://avatars.githubusercontent.com/u/21003710?s=40&v=4",
+      "owner": "pytorch",
+      "repo_name": "torchrec",
+      "property_test_count": 183
+    },
+    {
+      "name": "atopile/atopile",
+      "stars": 2086,
+      "img": "https://avatars.githubusercontent.com/u/150975426?s=40&v=4",
+      "owner": "atopile",
+      "repo_name": "atopile",
+      "property_test_count": 5
+    },
+    {
+      "name": "minitorch/minitorch",
+      "stars": 2057,
+      "img": "https://avatars.githubusercontent.com/u/69814924?s=40&v=4",
+      "owner": "minitorch",
+      "repo_name": "minitorch",
+      "property_test_count": 59
+    },
+    {
+      "name": "ariebovenberg/whenever",
+      "stars": 2013,
+      "img": "https://avatars.githubusercontent.com/u/5999858?s=40&v=4",
+      "owner": "ariebovenberg",
+      "repo_name": "whenever",
+      "property_test_count": 10
+    },
+    {
+      "name": "someengineering/fixinventory",
+      "stars": 1963,
+      "img": "https://avatars.githubusercontent.com/u/80209098?s=40&v=4",
+      "owner": "someengineering",
+      "repo_name": "fixinventory",
+      "property_test_count": 12
+    },
+    {
+      "name": "redballoonsecurity/ofrak",
+      "stars": 1940,
+      "img": "https://avatars.githubusercontent.com/u/48032083?s=40&v=4",
+      "owner": "redballoonsecurity",
+      "repo_name": "ofrak",
+      "property_test_count": 22
+    },
+    {
+      "name": "raiden-network/raiden",
+      "stars": 1842,
+      "img": "https://avatars.githubusercontent.com/u/19666847?s=40&v=4",
+      "owner": "raiden-network",
+      "repo_name": "raiden",
+      "property_test_count": 2
+    },
+    {
+      "name": "Checkmk/checkmk",
+      "stars": 1808,
+      "img": "https://avatars.githubusercontent.com/u/47812383?s=40&v=4",
+      "owner": "Checkmk",
+      "repo_name": "checkmk",
+      "property_test_count": 3
+    },
+    {
+      "name": "pytorch/opacus",
+      "stars": 1791,
+      "img": "https://avatars.githubusercontent.com/u/21003710?s=40&v=4",
+      "owner": "pytorch",
+      "repo_name": "opacus",
+      "property_test_count": 29
+    },
+    {
+      "name": "faust-streaming/faust",
+      "stars": 1763,
+      "img": "https://avatars.githubusercontent.com/u/73301568?s=40&v=4",
+      "owner": "faust-streaming",
+      "repo_name": "faust",
+      "property_test_count": 6
+    },
+    {
+      "name": "VertaAI/modeldb",
+      "stars": 1719,
+      "img": "https://avatars.githubusercontent.com/u/45020510?s=40&v=4",
+      "owner": "VertaAI",
+      "repo_name": "modeldb",
+      "property_test_count": 89
+    },
+    {
+      "name": "Yelp/paasta",
+      "stars": 1710,
+      "img": "https://avatars.githubusercontent.com/u/49071?s=40&v=4",
+      "owner": "Yelp",
+      "repo_name": "paasta",
+      "property_test_count": 12
+    },
+    {
+      "name": "quodlibet/mutagen",
+      "stars": 1695,
+      "img": "https://avatars.githubusercontent.com/u/11544695?s=40&v=4",
+      "owner": "quodlibet",
+      "repo_name": "mutagen",
+      "property_test_count": 4
+    },
+    {
+      "name": "cgarciae/pypeln",
+      "stars": 1574,
+      "img": "https://avatars.githubusercontent.com/u/5862228?s=40&v=4",
+      "owner": "cgarciae",
+      "repo_name": "pypeln",
+      "property_test_count": 146
+    },
+    {
+      "name": "mlrun/mlrun",
+      "stars": 1520,
+      "img": "https://avatars.githubusercontent.com/u/54775696?s=40&v=4",
+      "owner": "mlrun",
+      "repo_name": "mlrun",
+      "property_test_count": 3
+    },
+    {
+      "name": "pyjanitor-devs/pyjanitor",
+      "stars": 1414,
+      "img": "https://avatars.githubusercontent.com/u/53411673?s=40&v=4",
+      "owner": "pyjanitor-devs",
+      "repo_name": "pyjanitor",
+      "property_test_count": 252
+    },
+    {
+      "name": "aio-libs/yarl",
+      "stars": 1402,
+      "img": "https://avatars.githubusercontent.com/u/7049303?s=40&v=4",
+      "owner": "aio-libs",
+      "repo_name": "yarl",
+      "property_test_count": 5
+    },
+    {
+      "name": "pypy/pypy",
+      "stars": 1335,
+      "img": "https://avatars.githubusercontent.com/u/318667?s=40&v=4",
+      "owner": "pypy",
+      "repo_name": "pypy",
+      "property_test_count": 253
+    },
+    {
+      "name": "pytorch/FBGEMM",
+      "stars": 1313,
+      "img": "https://avatars.githubusercontent.com/u/21003710?s=40&v=4",
+      "owner": "pytorch",
+      "repo_name": "FBGEMM",
+      "property_test_count": 277
+    },
+    {
+      "name": "Xilinx/brevitas",
+      "stars": 1300,
+      "img": "https://avatars.githubusercontent.com/u/3189299?s=40&v=4",
+      "owner": "Xilinx",
+      "repo_name": "brevitas",
+      "property_test_count": 48
+    },
+    {
+      "name": "se2p/pynguin",
+      "stars": 1272,
+      "img": "https://avatars.githubusercontent.com/u/38749452?s=40&v=4",
+      "owner": "se2p",
+      "repo_name": "pynguin",
+      "property_test_count": 9
+    },
+    {
+      "name": "dunossauro/live-de-python",
+      "stars": 1233,
+      "img": "https://avatars.githubusercontent.com/u/6801122?s=40&v=4",
+      "owner": "dunossauro",
+      "repo_name": "live-de-python",
+      "property_test_count": 17
+    },
+    {
+      "name": "litestar-org/polyfactory",
+      "stars": 1193,
+      "img": "https://avatars.githubusercontent.com/u/97250344?s=40&v=4",
+      "owner": "litestar-org",
+      "repo_name": "polyfactory",
+      "property_test_count": 55
+    },
+    {
+      "name": "weaveworks/kubediff",
+      "stars": 1182,
+      "img": "https://avatars.githubusercontent.com/u/9976052?s=40&v=4",
+      "owner": "weaveworks",
+      "repo_name": "kubediff",
+      "property_test_count": 13
+    },
+    {
+      "name": "pyca/pynacl",
+      "stars": 1124,
+      "img": "https://avatars.githubusercontent.com/u/5615737?s=40&v=4",
+      "owner": "pyca",
+      "repo_name": "pynacl",
+      "property_test_count": 22
+    },
+    {
+      "name": "harvardnlp/pytorch-struct",
+      "stars": 1111,
+      "img": "https://avatars.githubusercontent.com/u/13152953?s=40&v=4",
+      "owner": "harvardnlp",
+      "repo_name": "pytorch-struct",
+      "property_test_count": 21
+    },
+    {
+      "name": "python-escpos/python-escpos",
+      "stars": 1103,
+      "img": "https://avatars.githubusercontent.com/u/16302939?s=40&v=4",
+      "owner": "python-escpos",
+      "repo_name": "python-escpos",
+      "property_test_count": 2
+    },
+    {
+      "name": "pytries/marisa-trie",
+      "stars": 1073,
+      "img": "https://avatars.githubusercontent.com/u/20343002?s=40&v=4",
+      "owner": "pytries",
+      "repo_name": "marisa-trie",
+      "property_test_count": 28
+    },
+    {
+      "name": "lastmile-ai/aiconfig",
+      "stars": 1018,
+      "img": "https://avatars.githubusercontent.com/u/123273171?s=40&v=4",
+      "owner": "lastmile-ai",
+      "repo_name": "aiconfig",
+      "property_test_count": 3
+    },
+    {
+      "name": "artisan-roaster-scope/artisan",
+      "stars": 1017,
+      "img": "https://avatars.githubusercontent.com/u/2933457?s=40&v=4",
+      "owner": "artisan-roaster-scope",
+      "repo_name": "artisan",
+      "property_test_count": 4
+    },
+    {
+      "name": "tlsfuzzer/python-ecdsa",
+      "stars": 938,
+      "img": "https://avatars.githubusercontent.com/u/74566338?s=40&v=4",
+      "owner": "tlsfuzzer",
+      "repo_name": "python-ecdsa",
+      "property_test_count": 28
+    },
+    {
+      "name": "world-class/REPL",
+      "stars": 911,
+      "img": "https://avatars.githubusercontent.com/u/49074177?s=40&v=4",
+      "owner": "world-class",
+      "repo_name": "REPL",
+      "property_test_count": 3
+    },
+    {
+      "name": "baal-org/baal",
+      "stars": 895,
+      "img": "https://avatars.githubusercontent.com/u/104995304?s=40&v=4",
+      "owner": "baal-org",
+      "repo_name": "baal",
+      "property_test_count": 8
+    },
+    {
+      "name": "python-attrs/cattrs",
+      "stars": 889,
+      "img": "https://avatars.githubusercontent.com/u/25880274?s=40&v=4",
+      "owner": "python-attrs",
+      "repo_name": "cattrs",
+      "property_test_count": 129
+    },
+    {
+      "name": "man-group/notebooker",
+      "stars": 873,
+      "img": "https://avatars.githubusercontent.com/u/5859004?s=40&v=4",
+      "owner": "man-group",
+      "repo_name": "notebooker",
+      "property_test_count": 3
+    },
+    {
+      "name": "wandb/weave",
+      "stars": 867,
+      "img": "https://avatars.githubusercontent.com/u/26401354?s=40&v=4",
+      "owner": "wandb",
+      "repo_name": "weave",
+      "property_test_count": 5
+    },
+    {
+      "name": "pycco-docs/pycco",
+      "stars": 850,
+      "img": "https://avatars.githubusercontent.com/u/15934634?s=40&v=4",
+      "owner": "pycco-docs",
+      "repo_name": "pycco",
+      "property_test_count": 9
+    },
+    {
+      "name": "twisted/klein",
+      "stars": 838,
+      "img": "https://avatars.githubusercontent.com/u/716546?s=40&v=4",
+      "owner": "twisted",
+      "repo_name": "klein",
+      "property_test_count": 25
+    },
+    {
+      "name": "motional/nuplan-devkit",
+      "stars": 818,
+      "img": "https://avatars.githubusercontent.com/u/69750371?s=40&v=4",
+      "owner": "motional",
+      "repo_name": "nuplan-devkit",
+      "property_test_count": 19
+    },
+    {
+      "name": "xlwings/jsondiff",
+      "stars": 721,
+      "img": "https://avatars.githubusercontent.com/u/6239016?s=40&v=4",
+      "owner": "xlwings",
+      "repo_name": "jsondiff",
+      "property_test_count": 4
+    },
+    {
+      "name": "texturedesign/texturize",
+      "stars": 720,
+      "img": "https://avatars.githubusercontent.com/u/90980541?s=40&v=4",
+      "owner": "texturedesign",
+      "repo_name": "texturize",
+      "property_test_count": 27
+    },
+    {
+      "name": "ics-py/ics-py",
+      "stars": 672,
+      "img": "https://avatars.githubusercontent.com/u/73469254?s=40&v=4",
+      "owner": "ics-py",
+      "repo_name": "ics-py",
+      "property_test_count": 5
+    },
+    {
+      "name": "dflook/python-minifier",
+      "stars": 639,
+      "img": "https://avatars.githubusercontent.com/u/733079?s=40&v=4",
+      "owner": "dflook",
+      "repo_name": "python-minifier",
+      "property_test_count": 6
+    },
+    {
+      "name": "dbrattli/Expression",
+      "stars": 620,
+      "img": "https://avatars.githubusercontent.com/u/849479?s=40&v=4",
+      "owner": "dbrattli",
+      "repo_name": "Expression",
+      "property_test_count": 140
+    },
+    {
+      "name": "corrscope/corrscope",
+      "stars": 619,
+      "img": "https://avatars.githubusercontent.com/u/85720757?s=40&v=4",
+      "owner": "corrscope",
+      "repo_name": "corrscope",
+      "property_test_count": 5
+    },
+    {
+      "name": "nccgroup/blackboxprotobuf",
+      "stars": 601,
+      "img": "https://avatars.githubusercontent.com/u/4067082?s=40&v=4",
+      "owner": "nccgroup",
+      "repo_name": "blackboxprotobuf",
+      "property_test_count": 85
+    },
+    {
+      "name": "JHUISI/charm",
+      "stars": 592,
+      "img": "https://avatars.githubusercontent.com/u/789484?s=40&v=4",
+      "owner": "JHUISI",
+      "repo_name": "charm",
+      "property_test_count": 5
+    },
+    {
+      "name": "pyparallel/pyparallel",
+      "stars": 585,
+      "img": "https://avatars.githubusercontent.com/u/8021232?s=40&v=4",
+      "owner": "pyparallel",
+      "repo_name": "pyparallel",
+      "property_test_count": 5
+    },
+    {
+      "name": "zhudotexe/kani",
+      "stars": 577,
+      "img": "https://avatars.githubusercontent.com/u/8866981?s=40&v=4",
+      "owner": "zhudotexe",
+      "repo_name": "kani",
+      "property_test_count": 7
+    },
+    {
+      "name": "DataDog/dd-trace-py",
+      "stars": 575,
+      "img": "https://avatars.githubusercontent.com/u/365230?s=40&v=4",
+      "owner": "DataDog",
+      "repo_name": "dd-trace-py",
+      "property_test_count": 46
+    },
+    {
+      "name": "indygreg/python-zstandard",
+      "stars": 556,
+      "img": "https://avatars.githubusercontent.com/u/342993?s=40&v=4",
+      "owner": "indygreg",
+      "repo_name": "python-zstandard",
+      "property_test_count": 43
+    },
+    {
+      "name": "dit/dit",
+      "stars": 538,
+      "img": "https://avatars.githubusercontent.com/u/3247210?s=40&v=4",
+      "owner": "dit",
+      "repo_name": "dit",
+      "property_test_count": 39
+    },
+    {
+      "name": "pytries/datrie",
+      "stars": 533,
+      "img": "https://avatars.githubusercontent.com/u/20343002?s=40&v=4",
+      "owner": "pytries",
+      "repo_name": "datrie",
+      "property_test_count": 5
+    },
+    {
+      "name": "opendatacube/datacube-core",
+      "stars": 532,
+      "img": "https://avatars.githubusercontent.com/u/26125288?s=40&v=4",
+      "owner": "opendatacube",
+      "repo_name": "datacube-core",
+      "property_test_count": 3
+    },
+    {
+      "name": "meshtastic/python",
+      "stars": 520,
+      "img": "https://avatars.githubusercontent.com/u/61627050?s=40&v=4",
+      "owner": "meshtastic",
+      "repo_name": "python",
+      "property_test_count": 7
+    },
+    {
+      "name": "xen0l/aws-gate",
+      "stars": 515,
+      "img": "https://avatars.githubusercontent.com/u/1426772?s=40&v=4",
+      "owner": "xen0l",
+      "repo_name": "aws-gate",
+      "property_test_count": 3
+    },
+    {
+      "name": "mre/hyperjson",
+      "stars": 510,
+      "img": "https://avatars.githubusercontent.com/u/175809?s=40&v=4",
+      "owner": "mre",
+      "repo_name": "hyperjson",
+      "property_test_count": 10
+    },
+    {
+      "name": "Aiven-Open/karapace",
+      "stars": 509,
+      "img": "https://avatars.githubusercontent.com/u/137087830?s=40&v=4",
+      "owner": "Aiven-Open",
+      "repo_name": "karapace",
+      "property_test_count": 2
+    },
+    {
+      "name": "gerrymanoim/exchange_calendars",
+      "stars": 505,
+      "img": "https://avatars.githubusercontent.com/u/194147?s=40&v=4",
+      "owner": "gerrymanoim",
+      "repo_name": "exchange_calendars",
+      "property_test_count": 6
+    },
+    {
+      "name": "cdown/srt",
+      "stars": 503,
+      "img": "https://avatars.githubusercontent.com/u/660663?s=40&v=4",
+      "owner": "cdown",
+      "repo_name": "srt",
+      "property_test_count": 44
+    },
+    {
+      "name": "shakedzy/dython",
+      "stars": 502,
+      "img": "https://avatars.githubusercontent.com/u/15704705?s=40&v=4",
+      "owner": "shakedzy",
+      "repo_name": "dython",
+      "property_test_count": 5
+    },
+    {
+      "name": "google/caliban",
+      "stars": 500,
+      "img": "https://avatars.githubusercontent.com/u/1342004?s=40&v=4",
+      "owner": "google",
+      "repo_name": "caliban",
+      "property_test_count": 30
+    },
+    {
+      "name": "tahnok/colmi_r02_client",
+      "stars": 494,
+      "img": "https://avatars.githubusercontent.com/u/362769?s=40&v=4",
+      "owner": "tahnok",
+      "repo_name": "colmi_r02_client",
+      "property_test_count": 17
+    },
+    {
+      "name": "huahua132/skynet_fly",
+      "stars": 483,
+      "img": "https://avatars.githubusercontent.com/u/41766775?s=40&v=4",
+      "owner": "huahua132",
+      "repo_name": "skynet_fly",
+      "property_test_count": 50
+    },
+    {
+      "name": "pyranges/pyranges",
+      "stars": 468,
+      "img": "https://avatars.githubusercontent.com/u/49520481?s=40&v=4",
+      "owner": "pyranges",
+      "repo_name": "pyranges",
+      "property_test_count": 26
+    },
+    {
+      "name": "harvard-lil/perma",
+      "stars": 467,
+      "img": "https://avatars.githubusercontent.com/u/857200?s=40&v=4",
+      "owner": "harvard-lil",
+      "repo_name": "perma",
+      "property_test_count": 3
+    },
+    {
+      "name": "curvefi/curve-stablecoin",
+      "stars": 462,
+      "img": "https://avatars.githubusercontent.com/u/59866658?s=40&v=4",
+      "owner": "curvefi",
+      "repo_name": "curve-stablecoin",
+      "property_test_count": 49
+    },
+    {
+      "name": "openedx/XBlock",
+      "stars": 459,
+      "img": "https://avatars.githubusercontent.com/u/40179672?s=40&v=4",
+      "owner": "openedx",
+      "repo_name": "XBlock",
+      "property_test_count": 4
+    },
+    {
+      "name": "static-frame/static-frame",
+      "stars": 457,
+      "img": "https://avatars.githubusercontent.com/u/106873827?s=40&v=4",
+      "owner": "static-frame",
+      "repo_name": "static-frame",
+      "property_test_count": 143
+    },
+    {
+      "name": "Opentrons/opentrons",
+      "stars": 448,
+      "img": "https://avatars.githubusercontent.com/u/6139147?s=40&v=4",
+      "owner": "Opentrons",
+      "repo_name": "opentrons",
+      "property_test_count": 33
+    },
+    {
+      "name": "KissPeter/APIFuzzer",
+      "stars": 445,
+      "img": "https://avatars.githubusercontent.com/u/19633417?s=40&v=4",
+      "owner": "KissPeter",
+      "repo_name": "APIFuzzer",
+      "property_test_count": 3
+    },
+    {
+      "name": "kensho-technologies/pyctcdecode",
+      "stars": 444,
+      "img": "https://avatars.githubusercontent.com/u/26574236?s=40&v=4",
+      "owner": "kensho-technologies",
+      "repo_name": "pyctcdecode",
+      "property_test_count": 6
+    },
+    {
+      "name": "harvardnlp/namedtensor",
+      "stars": 444,
+      "img": "https://avatars.githubusercontent.com/u/13152953?s=40&v=4",
+      "owner": "harvardnlp",
+      "repo_name": "namedtensor",
+      "property_test_count": 24
+    },
+    {
+      "name": "mozillazg/pypy",
+      "stars": 440,
+      "img": "https://avatars.githubusercontent.com/u/485054?s=40&v=4",
+      "owner": "mozillazg",
+      "repo_name": "pypy",
+      "property_test_count": 173
+    },
+    {
+      "name": "kragniz/python-etcd3",
+      "stars": 438,
+      "img": "https://avatars.githubusercontent.com/u/735008?s=40&v=4",
+      "owner": "kragniz",
+      "repo_name": "python-etcd3",
+      "property_test_count": 8
+    },
+    {
+      "name": "mapbox/mercantile",
+      "stars": 425,
+      "img": "https://avatars.githubusercontent.com/u/600935?s=40&v=4",
+      "owner": "mapbox",
+      "repo_name": "mercantile",
+      "property_test_count": 3
+    },
+    {
+      "name": "scott-griffiths/bitstring",
+      "stars": 424,
+      "img": "https://avatars.githubusercontent.com/u/11528142?s=40&v=4",
+      "owner": "scott-griffiths",
+      "repo_name": "bitstring",
+      "property_test_count": 3
+    },
+    {
+      "name": "CyberAgentAILab/cmaes",
+      "stars": 417,
+      "img": "https://avatars.githubusercontent.com/u/88431400?s=40&v=4",
+      "owner": "CyberAgentAILab",
+      "repo_name": "cmaes",
+      "property_test_count": 3
+    },
+    {
+      "name": "gilch/hissp",
+      "stars": 412,
+      "img": "https://avatars.githubusercontent.com/u/3346292?s=40&v=4",
+      "owner": "gilch",
+      "repo_name": "hissp",
+      "property_test_count": 7
+    },
+    {
+      "name": "pymtl/pymtl3",
+      "stars": 409,
+      "img": "https://avatars.githubusercontent.com/u/61431688?s=40&v=4",
+      "owner": "pymtl",
+      "repo_name": "pymtl3",
+      "property_test_count": 27
+    },
+    {
+      "name": "taskcluster/taskcluster",
+      "stars": 389,
+      "img": "https://avatars.githubusercontent.com/u/6257436?s=40&v=4",
+      "owner": "taskcluster",
+      "repo_name": "taskcluster",
+      "property_test_count": 2
+    },
+    {
+      "name": "Corvia/django-tenant-users",
+      "stars": 386,
+      "img": "https://avatars.githubusercontent.com/u/3905572?s=40&v=4",
+      "owner": "Corvia",
+      "repo_name": "django-tenant-users",
+      "property_test_count": 2
+    },
+    {
+      "name": "quickstrom/quickstrom",
+      "stars": 383,
+      "img": "https://avatars.githubusercontent.com/u/69889619?s=40&v=4",
+      "owner": "quickstrom",
+      "repo_name": "quickstrom",
+      "property_test_count": 2
+    },
+    {
+      "name": "rcarriga/vim-ultest",
+      "stars": 383,
+      "img": "https://avatars.githubusercontent.com/u/24252670?s=40&v=4",
+      "owner": "rcarriga",
+      "repo_name": "vim-ultest",
+      "property_test_count": 4
+    },
+    {
+      "name": "landlab/landlab",
+      "stars": 383,
+      "img": "https://avatars.githubusercontent.com/u/7543483?s=40&v=4",
+      "owner": "landlab",
+      "repo_name": "landlab",
+      "property_test_count": 42
+    },
+    {
+      "name": "cole/aiosmtplib",
+      "stars": 377,
+      "img": "https://avatars.githubusercontent.com/u/134694?s=40&v=4",
+      "owner": "cole",
+      "repo_name": "aiosmtplib",
+      "property_test_count": 19
+    },
+    {
+      "name": "mesalock-linux/mesapy",
+      "stars": 371,
+      "img": "https://avatars.githubusercontent.com/u/34010907?s=40&v=4",
+      "owner": "mesalock-linux",
+      "repo_name": "mesapy",
+      "property_test_count": 61
+    },
+    {
+      "name": "microsoft/Qcodes",
+      "stars": 371,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "Qcodes",
+      "property_test_count": 130
+    },
+    {
+      "name": "jazzband/django-eav2",
+      "stars": 359,
+      "img": "https://avatars.githubusercontent.com/u/15129049?s=40&v=4",
+      "owner": "jazzband",
+      "repo_name": "django-eav2",
+      "property_test_count": 4
+    },
+    {
+      "name": "curvefi/curve-dao-contracts",
+      "stars": 352,
+      "img": "https://avatars.githubusercontent.com/u/59866658?s=40&v=4",
+      "owner": "curvefi",
+      "repo_name": "curve-dao-contracts",
+      "property_test_count": 17
+    },
+    {
+      "name": "PKSHATechnology-Research/camphr",
+      "stars": 339,
+      "img": "https://avatars.githubusercontent.com/u/60775342?s=40&v=4",
+      "owner": "PKSHATechnology-Research",
+      "repo_name": "camphr",
+      "property_test_count": 4
+    },
+    {
+      "name": "tommikaikkonen/prettyprinter",
+      "stars": 339,
+      "img": "https://avatars.githubusercontent.com/u/2487359?s=40&v=4",
+      "owner": "tommikaikkonen",
+      "repo_name": "prettyprinter",
+      "property_test_count": 5
+    },
+    {
+      "name": "polm/cutlet",
+      "stars": 337,
+      "img": "https://avatars.githubusercontent.com/u/286278?s=40&v=4",
+      "owner": "polm",
+      "repo_name": "cutlet",
+      "property_test_count": 2
+    },
+    {
+      "name": "PokeAPI/pokebase",
+      "stars": 325,
+      "img": "https://avatars.githubusercontent.com/u/19692032?s=40&v=4",
+      "owner": "PokeAPI",
+      "repo_name": "pokebase",
+      "property_test_count": 60
+    },
+    {
+      "name": "pymor/pymor",
+      "stars": 317,
+      "img": "https://avatars.githubusercontent.com/u/2758256?s=40&v=4",
+      "owner": "pymor",
+      "repo_name": "pymor",
+      "property_test_count": 83
+    },
+    {
+      "name": "NVIDIA/nvmath-python",
+      "stars": 307,
+      "img": "https://avatars.githubusercontent.com/u/1728152?s=40&v=4",
+      "owner": "NVIDIA",
+      "repo_name": "nvmath-python",
+      "property_test_count": 6
+    },
+    {
+      "name": "anibali/dsntnn",
+      "stars": 305,
+      "img": "https://avatars.githubusercontent.com/u/226707?s=40&v=4",
+      "owner": "anibali",
+      "repo_name": "dsntnn",
+      "property_test_count": 3
+    },
+    {
+      "name": "wildfish/django-star-ratings",
+      "stars": 301,
+      "img": "https://avatars.githubusercontent.com/u/584286?s=40&v=4",
+      "owner": "wildfish",
+      "repo_name": "django-star-ratings",
+      "property_test_count": 13
+    },
+    {
+      "name": "dsw/proquint",
+      "stars": 297,
+      "img": "https://avatars.githubusercontent.com/u/48988?s=40&v=4",
+      "owner": "dsw",
+      "repo_name": "proquint",
+      "property_test_count": 2
+    },
+    {
+      "name": "ALIGN-analoglayout/ALIGN-public",
+      "stars": 296,
+      "img": "https://avatars.githubusercontent.com/u/42481706?s=40&v=4",
+      "owner": "ALIGN-analoglayout",
+      "repo_name": "ALIGN-public",
+      "property_test_count": 6
+    },
+    {
+      "name": "chalk-diagrams/chalk",
+      "stars": 295,
+      "img": "https://avatars.githubusercontent.com/u/110132403?s=40&v=4",
+      "owner": "chalk-diagrams",
+      "repo_name": "chalk",
+      "property_test_count": 4
+    },
+    {
+      "name": "eli5-org/eli5",
+      "stars": 290,
+      "img": "https://avatars.githubusercontent.com/u/77699736?s=40&v=4",
+      "owner": "eli5-org",
+      "repo_name": "eli5",
+      "property_test_count": 8
+    },
+    {
+      "name": "facebookincubator/ptr",
+      "stars": 281,
+      "img": "https://avatars.githubusercontent.com/u/19538647?s=40&v=4",
+      "owner": "facebookincubator",
+      "repo_name": "ptr",
+      "property_test_count": 10
+    },
+    {
+      "name": "bionumpy/bionumpy",
+      "stars": 280,
+      "img": "https://avatars.githubusercontent.com/u/115636236?s=40&v=4",
+      "owner": "bionumpy",
+      "repo_name": "bionumpy",
+      "property_test_count": 10
+    },
+    {
+      "name": "vyperlang/titanoboa",
+      "stars": 279,
+      "img": "https://avatars.githubusercontent.com/u/57152025?s=40&v=4",
+      "owner": "vyperlang",
+      "repo_name": "titanoboa",
+      "property_test_count": 44
+    },
+    {
+      "name": "CQCL/tket",
+      "stars": 278,
+      "img": "https://avatars.githubusercontent.com/u/15688781?s=40&v=4",
+      "owner": "CQCL",
+      "repo_name": "tket",
+      "property_test_count": 19
+    },
+    {
+      "name": "banteg/brownie-safe",
+      "stars": 274,
+      "img": "https://avatars.githubusercontent.com/u/4562643?s=40&v=4",
+      "owner": "banteg",
+      "repo_name": "brownie-safe",
+      "property_test_count": 2
+    },
+    {
+      "name": "servo/mozjs",
+      "stars": 274,
+      "img": "https://avatars.githubusercontent.com/u/2566135?s=40&v=4",
+      "owner": "servo",
+      "repo_name": "mozjs",
+      "property_test_count": 23
+    },
+    {
+      "name": "flyteorg/flytekit",
+      "stars": 273,
+      "img": "https://avatars.githubusercontent.com/u/35380635?s=40&v=4",
+      "owner": "flyteorg",
+      "repo_name": "flytekit",
+      "property_test_count": 6
+    },
+    {
+      "name": "DRMacIver/shrinkray",
+      "stars": 266,
+      "img": "https://avatars.githubusercontent.com/u/28623?s=40&v=4",
+      "owner": "DRMacIver",
+      "repo_name": "shrinkray",
+      "property_test_count": 12
+    },
+    {
+      "name": "pbrod/numdifftools",
+      "stars": 264,
+      "img": "https://avatars.githubusercontent.com/u/1193469?s=40&v=4",
+      "owner": "pbrod",
+      "repo_name": "numdifftools",
+      "property_test_count": 9
+    },
+    {
+      "name": "python-jsonschema/hypothesis-jsonschema",
+      "stars": 264,
+      "img": "https://avatars.githubusercontent.com/u/100241624?s=40&v=4",
+      "owner": "python-jsonschema",
+      "repo_name": "hypothesis-jsonschema",
+      "property_test_count": 28
+    },
+    {
+      "name": "mozilla-firefox/firefox",
+      "stars": 264,
+      "img": "https://avatars.githubusercontent.com/u/148481591?s=40&v=4",
+      "owner": "mozilla-firefox",
+      "repo_name": "firefox",
+      "property_test_count": 128
+    },
+    {
+      "name": "ppb/pursuedpybear",
+      "stars": 261,
+      "img": "https://avatars.githubusercontent.com/u/32312759?s=40&v=4",
+      "owner": "ppb",
+      "repo_name": "pursuedpybear",
+      "property_test_count": 41
+    },
+    {
+      "name": "adaszko/complgen",
+      "stars": 258,
+      "img": "https://avatars.githubusercontent.com/u/165678?s=40&v=4",
+      "owner": "adaszko",
+      "repo_name": "complgen",
+      "property_test_count": 3
+    },
+    {
+      "name": "zenml-io/mlstacks",
+      "stars": 255,
+      "img": "https://avatars.githubusercontent.com/u/88676955?s=40&v=4",
+      "owner": "zenml-io",
+      "repo_name": "mlstacks",
+      "property_test_count": 8
+    },
+    {
+      "name": "sgkit-dev/sgkit",
+      "stars": 255,
+      "img": "https://avatars.githubusercontent.com/u/67019846?s=40&v=4",
+      "owner": "sgkit-dev",
+      "repo_name": "sgkit",
+      "property_test_count": 7
+    },
+    {
+      "name": "gjoseph92/stackstac",
+      "stars": 255,
+      "img": "https://avatars.githubusercontent.com/u/3309802?s=40&v=4",
+      "owner": "gjoseph92",
+      "repo_name": "stackstac",
+      "property_test_count": 3
+    },
+    {
+      "name": "ethereum/eth-abi",
+      "stars": 250,
+      "img": "https://avatars.githubusercontent.com/u/6250754?s=40&v=4",
+      "owner": "ethereum",
+      "repo_name": "eth-abi",
+      "property_test_count": 39
+    },
+    {
+      "name": "biocypher/biocypher",
+      "stars": 249,
+      "img": "https://avatars.githubusercontent.com/u/128412897?s=40&v=4",
+      "owner": "biocypher",
+      "repo_name": "biocypher",
+      "property_test_count": 6
+    },
+    {
+      "name": "ClusterHQ/dvol",
+      "stars": 249,
+      "img": "https://avatars.githubusercontent.com/u/7913449?s=40&v=4",
+      "owner": "ClusterHQ",
+      "repo_name": "dvol",
+      "property_test_count": 3
+    },
+    {
+      "name": "abunuwas/microservice-apis",
+      "stars": 247,
+      "img": "https://avatars.githubusercontent.com/u/12152494?s=40&v=4",
+      "owner": "abunuwas",
+      "repo_name": "microservice-apis",
+      "property_test_count": 2
+    },
+    {
+      "name": "tlsfuzzer/tlslite-ng",
+      "stars": 247,
+      "img": "https://avatars.githubusercontent.com/u/74566338?s=40&v=4",
+      "owner": "tlsfuzzer",
+      "repo_name": "tlslite-ng",
+      "property_test_count": 19
+    },
+    {
+      "name": "tweag/FawltyDeps",
+      "stars": 244,
+      "img": "https://avatars.githubusercontent.com/u/6057932?s=40&v=4",
+      "owner": "tweag",
+      "repo_name": "FawltyDeps",
+      "property_test_count": 5
+    },
+    {
+      "name": "readthedocs/commonmark.py",
+      "stars": 240,
+      "img": "https://avatars.githubusercontent.com/u/366329?s=40&v=4",
+      "owner": "readthedocs",
+      "repo_name": "commonmark.py",
+      "property_test_count": 2
+    },
+    {
+      "name": "MartinThoma/algorithms",
+      "stars": 239,
+      "img": "https://avatars.githubusercontent.com/u/1658117?s=40&v=4",
+      "owner": "MartinThoma",
+      "repo_name": "algorithms",
+      "property_test_count": 7
+    },
+    {
+      "name": "mirror/vbox",
+      "stars": 232,
+      "img": "https://avatars.githubusercontent.com/u/40007?s=40&v=4",
+      "owner": "mirror",
+      "repo_name": "vbox",
+      "property_test_count": 2
+    },
+    {
+      "name": "xhochy/fletcher",
+      "stars": 229,
+      "img": "https://avatars.githubusercontent.com/u/70274?s=40&v=4",
+      "owner": "xhochy",
+      "repo_name": "fletcher",
+      "property_test_count": 47
+    },
+    {
+      "name": "soaxelbrooke/python-bpe",
+      "stars": 228,
+      "img": "https://avatars.githubusercontent.com/u/2815794?s=40&v=4",
+      "owner": "soaxelbrooke",
+      "repo_name": "python-bpe",
+      "property_test_count": 3
+    },
+    {
+      "name": "explosion/cython-blis",
+      "stars": 226,
+      "img": "https://avatars.githubusercontent.com/u/20011530?s=40&v=4",
+      "owner": "explosion",
+      "repo_name": "cython-blis",
+      "property_test_count": 8
+    },
+    {
+      "name": "cdown/yturl",
+      "stars": 223,
+      "img": "https://avatars.githubusercontent.com/u/660663?s=40&v=4",
+      "owner": "cdown",
+      "repo_name": "yturl",
+      "property_test_count": 7
+    },
+    {
+      "name": "nxenon/grpc-pentest-suite",
+      "stars": 218,
+      "img": "https://avatars.githubusercontent.com/u/61124903?s=40&v=4",
+      "owner": "nxenon",
+      "repo_name": "grpc-pentest-suite",
+      "property_test_count": 84
+    },
+    {
+      "name": "seemoo-lab/polypyus",
+      "stars": 218,
+      "img": "https://avatars.githubusercontent.com/u/7370084?s=40&v=4",
+      "owner": "seemoo-lab",
+      "repo_name": "polypyus",
+      "property_test_count": 12
+    },
+    {
+      "name": "pviafore/RobustPython",
+      "stars": 216,
+      "img": "https://avatars.githubusercontent.com/u/10091903?s=40&v=4",
+      "owner": "pviafore",
+      "repo_name": "RobustPython",
+      "property_test_count": 4
+    },
+    {
+      "name": "cgarciae/treex",
+      "stars": 214,
+      "img": "https://avatars.githubusercontent.com/u/5862228?s=40&v=4",
+      "owner": "cgarciae",
+      "repo_name": "treex",
+      "property_test_count": 18
+    },
+    {
+      "name": "RSSerpent/RSSerpent",
+      "stars": 212,
+      "img": "https://avatars.githubusercontent.com/u/86242247?s=40&v=4",
+      "owner": "RSSerpent",
+      "repo_name": "RSSerpent",
+      "property_test_count": 10
+    },
+    {
+      "name": "Ezibenroc/PyRoaringBitMap",
+      "stars": 209,
+      "img": "https://avatars.githubusercontent.com/u/8900834?s=40&v=4",
+      "owner": "Ezibenroc",
+      "repo_name": "PyRoaringBitMap",
+      "property_test_count": 92
+    },
+    {
+      "name": "loris-imageserver/loris",
+      "stars": 209,
+      "img": "https://avatars.githubusercontent.com/u/11686729?s=40&v=4",
+      "owner": "loris-imageserver",
+      "repo_name": "loris",
+      "property_test_count": 7
+    },
+    {
+      "name": "trailofbits/PrivacyRaven",
+      "stars": 204,
+      "img": "https://avatars.githubusercontent.com/u/2314423?s=40&v=4",
+      "owner": "trailofbits",
+      "repo_name": "PrivacyRaven",
+      "property_test_count": 9
+    },
+    {
+      "name": "pola-rs/polars-xdt",
+      "stars": 203,
+      "img": "https://avatars.githubusercontent.com/u/83768144?s=40&v=4",
+      "owner": "pola-rs",
+      "repo_name": "polars-xdt",
+      "property_test_count": 5
+    },
+    {
+      "name": "Gobot1234/steam.py",
+      "stars": 198,
+      "img": "https://avatars.githubusercontent.com/u/50501825?s=40&v=4",
+      "owner": "Gobot1234",
+      "repo_name": "steam.py",
+      "property_test_count": 2
+    },
+    {
+      "name": "nix-community/pypi2nix",
+      "stars": 195,
+      "img": "https://avatars.githubusercontent.com/u/33221035?s=40&v=4",
+      "owner": "nix-community",
+      "repo_name": "pypi2nix",
+      "property_test_count": 2
+    },
+    {
+      "name": "explosion/tokenizations",
+      "stars": 192,
+      "img": "https://avatars.githubusercontent.com/u/20011530?s=40&v=4",
+      "owner": "explosion",
+      "repo_name": "tokenizations",
+      "property_test_count": 4
+    },
+    {
+      "name": "dssg/triage",
+      "stars": 192,
+      "img": "https://avatars.githubusercontent.com/u/3827384?s=40&v=4",
+      "owner": "dssg",
+      "repo_name": "triage",
+      "property_test_count": 2
+    },
+    {
+      "name": "GaloisInc/MATE",
+      "stars": 191,
+      "img": "https://avatars.githubusercontent.com/u/1584774?s=40&v=4",
+      "owner": "GaloisInc",
+      "repo_name": "MATE",
+      "property_test_count": 2
+    },
+    {
+      "name": "janfreyberg/superintendent",
+      "stars": 189,
+      "img": "https://avatars.githubusercontent.com/u/4092425?s=40&v=4",
+      "owner": "janfreyberg",
+      "repo_name": "superintendent",
+      "property_test_count": 19
+    },
+    {
+      "name": "G-Research/ahocorasick_rs",
+      "stars": 182,
+      "img": "https://avatars.githubusercontent.com/u/21341965?s=40&v=4",
+      "owner": "G-Research",
+      "repo_name": "ahocorasick_rs",
+      "property_test_count": 6
+    },
+    {
+      "name": "box/ClusterRunner",
+      "stars": 182,
+      "img": "https://avatars.githubusercontent.com/u/23900?s=40&v=4",
+      "owner": "box",
+      "repo_name": "ClusterRunner",
+      "property_test_count": 2
+    },
+    {
+      "name": "curvefi/curve-pool-registry",
+      "stars": 179,
+      "img": "https://avatars.githubusercontent.com/u/59866658?s=40&v=4",
+      "owner": "curvefi",
+      "repo_name": "curve-pool-registry",
+      "property_test_count": 7
+    },
+    {
+      "name": "openbsd/xenocara",
+      "stars": 175,
+      "img": "https://avatars.githubusercontent.com/u/929183?s=40&v=4",
+      "owner": "openbsd",
+      "repo_name": "xenocara",
+      "property_test_count": 2
+    },
+    {
+      "name": "ngalongc/openapi_security_scanner",
+      "stars": 173,
+      "img": "https://avatars.githubusercontent.com/u/7859759?s=40&v=4",
+      "owner": "ngalongc",
+      "repo_name": "openapi_security_scanner",
+      "property_test_count": 2
+    },
+    {
+      "name": "HPAC/matchpy",
+      "stars": 168,
+      "img": "https://avatars.githubusercontent.com/u/15789883?s=40&v=4",
+      "owner": "HPAC",
+      "repo_name": "matchpy",
+      "property_test_count": 12
+    },
+    {
+      "name": "Election-Tech-Initiative/electionguard-python",
+      "stars": 164,
+      "img": "https://avatars.githubusercontent.com/u/132019560?s=40&v=4",
+      "owner": "Election-Tech-Initiative",
+      "repo_name": "electionguard-python",
+      "property_test_count": 65
+    },
+    {
+      "name": "fhightower/ioc-finder",
+      "stars": 164,
+      "img": "https://avatars.githubusercontent.com/u/3599813?s=40&v=4",
+      "owner": "fhightower",
+      "repo_name": "ioc-finder",
+      "property_test_count": 4
+    },
+    {
+      "name": "JoshKarpel/spiel",
+      "stars": 161,
+      "img": "https://avatars.githubusercontent.com/u/7133863?s=40&v=4",
+      "owner": "JoshKarpel",
+      "repo_name": "spiel",
+      "property_test_count": 5
+    },
+    {
+      "name": "JDASoftwareGroup/kartothek",
+      "stars": 159,
+      "img": "https://avatars.githubusercontent.com/u/45689657?s=40&v=4",
+      "owner": "JDASoftwareGroup",
+      "repo_name": "kartothek",
+      "property_test_count": 2
+    },
+    {
+      "name": "pywemo/pywemo",
+      "stars": 158,
+      "img": "https://avatars.githubusercontent.com/u/80224607?s=40&v=4",
+      "owner": "pywemo",
+      "repo_name": "pywemo",
+      "property_test_count": 4
+    },
+    {
+      "name": "curveresearch/curvesim",
+      "stars": 157,
+      "img": "https://avatars.githubusercontent.com/u/114625164?s=40&v=4",
+      "owner": "curveresearch",
+      "repo_name": "curvesim",
+      "property_test_count": 59
+    },
+    {
+      "name": "Yakifo/amqtt",
+      "stars": 156,
+      "img": "https://avatars.githubusercontent.com/u/79358771?s=40&v=4",
+      "owner": "Yakifo",
+      "repo_name": "amqtt",
+      "property_test_count": 2
+    },
+    {
+      "name": "CiwPython/Ciw",
+      "stars": 156,
+      "img": "https://avatars.githubusercontent.com/u/20789286?s=40&v=4",
+      "owner": "CiwPython",
+      "repo_name": "Ciw",
+      "property_test_count": 21
+    },
+    {
+      "name": "backtrace-labs/umash",
+      "stars": 155,
+      "img": "https://avatars.githubusercontent.com/u/7865171?s=40&v=4",
+      "owner": "backtrace-labs",
+      "repo_name": "umash",
+      "property_test_count": 45
+    },
+    {
+      "name": "OpShin/opshin",
+      "stars": 154,
+      "img": "https://avatars.githubusercontent.com/u/102762047?s=40&v=4",
+      "owner": "OpShin",
+      "repo_name": "opshin",
+      "property_test_count": 246
+    },
+    {
+      "name": "stanford-iprl-lab/torchfilter",
+      "stars": 152,
+      "img": "https://avatars.githubusercontent.com/u/35672550?s=40&v=4",
+      "owner": "stanford-iprl-lab",
+      "repo_name": "torchfilter",
+      "property_test_count": 6
+    },
+    {
+      "name": "suned/pfun",
+      "stars": 150,
+      "img": "https://avatars.githubusercontent.com/u/1228354?s=40&v=4",
+      "owner": "suned",
+      "repo_name": "pfun",
+      "property_test_count": 111
+    },
+    {
+      "name": "jemisjoky/TorchMPS",
+      "stars": 150,
+      "img": "https://avatars.githubusercontent.com/u/34627620?s=40&v=4",
+      "owner": "jemisjoky",
+      "repo_name": "TorchMPS",
+      "property_test_count": 14
+    },
+    {
+      "name": "alibaba/TorchEasyRec",
+      "stars": 148,
+      "img": "https://avatars.githubusercontent.com/u/1961952?s=40&v=4",
+      "owner": "alibaba",
+      "repo_name": "TorchEasyRec",
+      "property_test_count": 20
+    },
+    {
+      "name": "curvefi/brownie-tutorial",
+      "stars": 148,
+      "img": "https://avatars.githubusercontent.com/u/59866658?s=40&v=4",
+      "owner": "curvefi",
+      "repo_name": "brownie-tutorial",
+      "property_test_count": 25
+    },
+    {
+      "name": "virantha/bricknil",
+      "stars": 147,
+      "img": "https://avatars.githubusercontent.com/u/5067652?s=40&v=4",
+      "owner": "virantha",
+      "repo_name": "bricknil",
+      "property_test_count": 18
+    },
+    {
+      "name": "python-hyper/brotlicffi",
+      "stars": 147,
+      "img": "https://avatars.githubusercontent.com/u/13035907?s=40&v=4",
+      "owner": "python-hyper",
+      "repo_name": "brotlicffi",
+      "property_test_count": 4
+    },
+    {
+      "name": "uber/bayesmark",
+      "stars": 145,
+      "img": "https://avatars.githubusercontent.com/u/538264?s=40&v=4",
+      "owner": "uber",
+      "repo_name": "bayesmark",
+      "property_test_count": 111
+    },
+    {
+      "name": "satellogic/orbit-predictor",
+      "stars": 144,
+      "img": "https://avatars.githubusercontent.com/u/5545050?s=40&v=4",
+      "owner": "satellogic",
+      "repo_name": "orbit-predictor",
+      "property_test_count": 6
+    },
+    {
+      "name": "mesejo/trrex",
+      "stars": 143,
+      "img": "https://avatars.githubusercontent.com/u/8579156?s=40&v=4",
+      "owner": "mesejo",
+      "repo_name": "trrex",
+      "property_test_count": 4
+    },
+    {
+      "name": "Python-Fuzzylogic/fuzzylogic",
+      "stars": 142,
+      "img": "https://avatars.githubusercontent.com/u/136064262?s=40&v=4",
+      "owner": "Python-Fuzzylogic",
+      "repo_name": "fuzzylogic",
+      "property_test_count": 46
+    },
+    {
+      "name": "microsoft/codamosa",
+      "stars": 138,
+      "img": "https://avatars.githubusercontent.com/u/6154722?s=40&v=4",
+      "owner": "microsoft",
+      "repo_name": "codamosa",
+      "property_test_count": 6
+    },
+    {
+      "name": "nielstron/quantulum3",
+      "stars": 138,
+      "img": "https://avatars.githubusercontent.com/u/20638630?s=40&v=4",
+      "owner": "nielstron",
+      "repo_name": "quantulum3",
+      "property_test_count": 4
+    },
+    {
+      "name": "mangaki/mangaki",
+      "stars": 138,
+      "img": "https://avatars.githubusercontent.com/u/16416680?s=40&v=4",
+      "owner": "mangaki",
+      "repo_name": "mangaki",
+      "property_test_count": 2
+    },
+    {
+      "name": "ANSSI-FR/eurydice",
+      "stars": 137,
+      "img": "https://avatars.githubusercontent.com/u/1921418?s=40&v=4",
+      "owner": "ANSSI-FR",
+      "repo_name": "eurydice",
+      "property_test_count": 3
+    },
+    {
+      "name": "WZBSocialScienceCenter/geovoronoi",
+      "stars": 136,
+      "img": "https://avatars.githubusercontent.com/u/20353876?s=40&v=4",
+      "owner": "WZBSocialScienceCenter",
+      "repo_name": "geovoronoi",
+      "property_test_count": 3
+    },
+    {
+      "name": "janpipek/physt",
+      "stars": 134,
+      "img": "https://avatars.githubusercontent.com/u/92804?s=40&v=4",
+      "owner": "janpipek",
+      "repo_name": "physt",
+      "property_test_count": 49
+    },
+    {
+      "name": "nanograv/PINT",
+      "stars": 128,
+      "img": "https://avatars.githubusercontent.com/u/1416848?s=40&v=4",
+      "owner": "nanograv",
+      "repo_name": "PINT",
+      "property_test_count": 76
+    },
+    {
+      "name": "OasisLMF/OasisLMF",
+      "stars": 127,
+      "img": "https://avatars.githubusercontent.com/u/8616323?s=40&v=4",
+      "owner": "OasisLMF",
+      "repo_name": "OasisLMF",
+      "property_test_count": 120
+    },
+    {
+      "name": "avrae/d20",
+      "stars": 126,
+      "img": "https://avatars.githubusercontent.com/u/37455133?s=40&v=4",
+      "owner": "avrae",
+      "repo_name": "d20",
+      "property_test_count": 2
+    },
+    {
+      "name": "ptrus/suffix-trees",
+      "stars": 126,
+      "img": "https://avatars.githubusercontent.com/u/3691472?s=40&v=4",
+      "owner": "ptrus",
+      "repo_name": "suffix-trees",
+      "property_test_count": 4
+    },
+    {
+      "name": "AIworx-Labs/chocolate",
+      "stars": 123,
+      "img": "https://avatars.githubusercontent.com/u/13833324?s=40&v=4",
+      "owner": "AIworx-Labs",
+      "repo_name": "chocolate",
+      "property_test_count": 6
+    },
+    {
+      "name": "scipp/scipp",
+      "stars": 122,
+      "img": "https://avatars.githubusercontent.com/u/47779972?s=40&v=4",
+      "owner": "scipp",
+      "repo_name": "scipp",
+      "property_test_count": 50
+    },
+    {
+      "name": "rgerum/cameratransform",
+      "stars": 117,
+      "img": "https://avatars.githubusercontent.com/u/14153051?s=40&v=4",
+      "owner": "rgerum",
+      "repo_name": "cameratransform",
+      "property_test_count": 17
+    },
+    {
+      "name": "arekusandr/last_layer",
+      "stars": 116,
+      "img": "https://avatars.githubusercontent.com/u/164400244?s=40&v=4",
+      "owner": "arekusandr",
+      "repo_name": "last_layer",
+      "property_test_count": 2
+    },
+    {
+      "name": "brentspell/torch-yin",
+      "stars": 114,
+      "img": "https://avatars.githubusercontent.com/u/2371833?s=40&v=4",
+      "owner": "brentspell",
+      "repo_name": "torch-yin",
+      "property_test_count": 3
+    },
+    {
+      "name": "AdaCore/RecordFlux",
+      "stars": 113,
+      "img": "https://avatars.githubusercontent.com/u/7767877?s=40&v=4",
+      "owner": "AdaCore",
+      "repo_name": "RecordFlux",
+      "property_test_count": 7
+    },
+    {
+      "name": "etianen/logot",
+      "stars": 111,
+      "img": "https://avatars.githubusercontent.com/u/148744?s=40&v=4",
+      "owner": "etianen",
+      "repo_name": "logot",
+      "property_test_count": 4
+    },
+    {
+      "name": "marrink-lab/vermouth-martinize",
+      "stars": 111,
+      "img": "https://avatars.githubusercontent.com/u/33900610?s=40&v=4",
+      "owner": "marrink-lab",
+      "repo_name": "vermouth-martinize",
+      "property_test_count": 20
+    },
+    {
+      "name": "SEED-platform/seed",
+      "stars": 111,
+      "img": "https://avatars.githubusercontent.com/u/7445100?s=40&v=4",
+      "owner": "SEED-platform",
+      "repo_name": "seed",
+      "property_test_count": 11
+    },
+    {
+      "name": "philzook58/knuckledragger",
+      "stars": 108,
+      "img": "https://avatars.githubusercontent.com/u/955389?s=40&v=4",
+      "owner": "philzook58",
+      "repo_name": "knuckledragger",
+      "property_test_count": 9
+    },
+    {
+      "name": "CodyKochmann/battle_tested",
+      "stars": 108,
+      "img": "https://avatars.githubusercontent.com/u/6968406?s=40&v=4",
+      "owner": "CodyKochmann",
+      "repo_name": "battle_tested",
+      "property_test_count": 3
+    },
+    {
+      "name": "mapbox/rio-rgbify",
+      "stars": 108,
+      "img": "https://avatars.githubusercontent.com/u/600935?s=40&v=4",
+      "owner": "mapbox",
+      "repo_name": "rio-rgbify",
+      "property_test_count": 2
+    },
+    {
+      "name": "ricklupton/rmscene",
+      "stars": 107,
+      "img": "https://avatars.githubusercontent.com/u/878794?s=40&v=4",
+      "owner": "ricklupton",
+      "repo_name": "rmscene",
+      "property_test_count": 2
+    },
+    {
+      "name": "equinor/resdata",
+      "stars": 107,
+      "img": "https://avatars.githubusercontent.com/u/525862?s=40&v=4",
+      "owner": "equinor",
+      "repo_name": "resdata",
+      "property_test_count": 2
+    },
+    {
+      "name": "sixty-north/segpy",
+      "stars": 106,
+      "img": "https://avatars.githubusercontent.com/u/12004521?s=40&v=4",
+      "owner": "sixty-north",
+      "repo_name": "segpy",
+      "property_test_count": 281
+    },
+    {
+      "name": "mabel-dev/opteryx",
+      "stars": 105,
+      "img": "https://avatars.githubusercontent.com/u/84202451?s=40&v=4",
+      "owner": "mabel-dev",
+      "repo_name": "opteryx",
+      "property_test_count": 8
+    },
+    {
+      "name": "Quansight-Labs/ndindex",
+      "stars": 103,
+      "img": "https://avatars.githubusercontent.com/u/42948208?s=40&v=4",
+      "owner": "Quansight-Labs",
+      "repo_name": "ndindex",
+      "property_test_count": 67
+    },
+    {
+      "name": "single-cell-data/TileDB-SOMA",
+      "stars": 103,
+      "img": "https://avatars.githubusercontent.com/u/96268704?s=40&v=4",
+      "owner": "single-cell-data",
+      "repo_name": "TileDB-SOMA",
+      "property_test_count": 14
+    },
+    {
+      "name": "minitorch/Module-0",
+      "stars": 102,
+      "img": "https://avatars.githubusercontent.com/u/69814924?s=40&v=4",
+      "owner": "minitorch",
+      "repo_name": "Module-0",
+      "property_test_count": 19
+    },
+    {
+      "name": "zalando-incubator/transformer",
+      "stars": 102,
+      "img": "https://avatars.githubusercontent.com/u/18533786?s=40&v=4",
+      "owner": "zalando-incubator",
+      "repo_name": "transformer",
+      "property_test_count": 68
+    },
+    {
+      "name": "Zac-HD/hypothesmith",
+      "stars": 102,
+      "img": "https://avatars.githubusercontent.com/u/12229877?s=40&v=4",
+      "owner": "Zac-HD",
+      "repo_name": "hypothesmith",
+      "property_test_count": 13
+    },
+    {
+      "name": "iesl/box-embeddings",
+      "stars": 102,
+      "img": "https://avatars.githubusercontent.com/u/1295730?s=40&v=4",
+      "owner": "iesl",
+      "repo_name": "box-embeddings",
+      "property_test_count": 44
+    },
+    {
+      "name": "mozilla-releng/balrog",
+      "stars": 101,
+      "img": "https://avatars.githubusercontent.com/u/19614164?s=40&v=4",
+      "owner": "mozilla-releng",
+      "repo_name": "balrog",
+      "property_test_count": 22
+    },
+    {
+      "name": "piccolbo/altair_recipes",
+      "stars": 101,
+      "img": "https://avatars.githubusercontent.com/u/905563?s=40&v=4",
+      "owner": "piccolbo",
+      "repo_name": "altair_recipes",
+      "property_test_count": 2
+    },
+    {
+      "name": "elmotec/circlify",
+      "stars": 100,
+      "img": "https://avatars.githubusercontent.com/u/1107551?s=40&v=4",
+      "owner": "elmotec",
+      "repo_name": "circlify",
+      "property_test_count": 2
+    },
+    {
+      "name": "tjltjl/plycutter",
+      "stars": 100,
+      "img": "https://avatars.githubusercontent.com/u/2869853?s=40&v=4",
+      "owner": "tjltjl",
+      "repo_name": "plycutter",
+      "property_test_count": 13
+    },
+    {
+      "name": "giotto-ai/giotto-time",
+      "stars": 100,
+      "img": "https://avatars.githubusercontent.com/u/57436326?s=40&v=4",
+      "owner": "giotto-ai",
+      "repo_name": "giotto-time",
+      "property_test_count": 276
+    }
+  ]
+}
