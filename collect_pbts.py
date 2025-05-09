@@ -16,7 +16,7 @@ DECORATOR_REGEX = re.compile(
     r"^\s*@(?:\w+\.)?given"           # Match the @given decorator (optionally prefixed)
     r"(?:\s*\(.*?(\n\s*.*?)*?\))?"    # Match optional arguments to @given, possibly multiline
     r"\s*\n(?:^\s*@.*\n)*"            # Match any decorators after @given (including none)
-    r"^\s*def\s+\w+\s*\(.*?\):)",     # Match the function definition header
+    r"^\s*def\s+\w+\s*\(.*?(\n\s*.*?)*?\)(\s*->\s*\w+\s*)?:)",  # Match the function definition header, including multiline
     re.MULTILINE
 )
 
