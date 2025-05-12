@@ -41,7 +41,7 @@ def process_file(file_path):
         for match in DECORATOR_REGEX.finditer(content):
             header = match.group(1)
             header_lines = header.splitlines(keepends=True)
-            start_line_idx = content[:match.start()].count("\n") + len(header_lines)
+            start_line_idx = content[:match.start()].count("\n")
 
             # Find test function indentation
             indent_match = re.search(r"^(\s*)def", header, re.MULTILINE)
@@ -49,7 +49,7 @@ def process_file(file_path):
 
             # Grab function body lines
             body_lines = []
-            for i in range(start_line_idx, len(lines)):
+            for i in range(start_line_idx + len(header_lines), len(lines)):
                 line = lines[i]
                 # Check if the line has one more indentation level than 'def'
                 if line.strip() == "" or line.startswith(indent + " ") or line.startswith(indent + "\t"):
@@ -70,16 +70,15 @@ def process_file(file_path):
                     enclosing_class = cls
                     break
             
-            # Store the test with its enclosing class
+            # Store the test with its enclosing class and line number
             rel_path = str(file_path)
-            results[(rel_path, enclosing_class)].append(full_test.strip())
+            results[(rel_path, enclosing_class)].append((full_test.strip(), start_line_idx + 2))
 
     except Exception as e:
         return {"error": f"{file_path}: {e}"}
     return results
 
-
-def generate_latex_pdf(repo_name, grouped):
+def generate_latex_pdf(repo_name, grouped, repo_base, commit_sha):
     OUTPUT_DIR.mkdir(exist_ok=True)
     aux_dir = OUTPUT_DIR / repo_name
     aux_dir.mkdir(exist_ok=True)
@@ -102,6 +101,7 @@ def generate_latex_pdf(repo_name, grouped):
         tex.write("\\usepackage{fancyvrb}\n")
         tex.write("\\usepackage{color}\n")
         tex.write("\\usepackage{listings}\n")
+        tex.write("\\usepackage{hyperref}\n")  # Add hyperref for clickable links
         tex.write("\\geometry{margin=1in}\n")
         # Add Pygments macros for LaTeX
         tex.write(formatter.get_style_defs())
@@ -114,10 +114,12 @@ def generate_latex_pdf(repo_name, grouped):
             tex.write(f"\\subsection*{{\\texttt{{\\detokenize{{{module}}}}}}}\n")
             for cls, tests in sorted(classes.items()):
                 tex.write(f"\\subsubsection*{{\\texttt{{\\detokenize{{{cls}}}}}}}\n")
-                for test in tests:
-                    # Escape underscores in the test content
+                for test, line_number in tests:
+                    permalink = f"{repo_base}/blob/{commit_sha}/{module}#L{line_number}"
+                    test_name = re.search(r"def\s+(\w+)\s*\(", test).group(1)  # Extract the test name
+                    tex.write(f"\\noindent\\href{{{permalink}}}{{\\textbf{{{test_name.replace("_", "\\_")}}}}}\n")
                     highlighted = highlight(test, PythonLexer(), formatter)
-                    tex.write(highlighted)
+                    tex.write(highlighted) 
                     tex.write("\\vspace{1em}\n")
 
         tex.write("\\end{document}\n")
@@ -138,7 +140,6 @@ def generate_latex_pdf(repo_name, grouped):
     except Exception as e:
         print(f"Failed to generate PDF: {e}")
         print(f"You can compile manually with: pdflatex -output-directory={OUTPUT_DIR} {tex_path}")
-
 
 def extract_tests_from_repo(repo_url: str):
     repo_cache_dir = Path("./repo_cache")
@@ -196,11 +197,11 @@ def extract_tests_from_repo(repo_url: str):
             out.write(f"# File: {module}\n")
             for cls, tests in sorted(classes.items()):
                 out.write(f"\n## Class: {cls}\n\n")
-                for test in tests:
+                for test, line_number in tests:
                     out.write(test + "\n\n")
 
     # Generate LaTeX PDF
-    generate_latex_pdf(repo_name, grouped)
+    generate_latex_pdf(repo_name, grouped, repo_base.replace(".git", ""), commit_sha)
     print(f"Extracted {sum(len(tests) for classes in grouped.values() for tests in classes.values())} property-based tests to {output_file}")
 
 
