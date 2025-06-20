@@ -22,6 +22,8 @@ I ran these scripts on Thursday, May 1, 2025, around 3:00 pm. This resulted in a
 ## Collecting the Property-Based Tests
 The [collect_pbts.py](collect_pbts.py) script collects the property-based tests from the repositories by cloning a repository, checking out a specific commit, and finding all functions that have the decorator `@given` or `@*.given` using regex. The functions are saved to a pdf file that includes the path, class and permalink of the test. 
 
+The script does not copy copyright notices to the pdf file. However, these notices are retained in the cloned versions of the repositories, that can be found in `./repo_cache` after running the script.
+
 The pdf files can be used for qualitative analysis of the tests (*open coding using pen and paper*).
 
 I ran [collect_pbts.py](collect_pbts.py) in May 2025 for the following repositories (permalinks are to the specific commits):
